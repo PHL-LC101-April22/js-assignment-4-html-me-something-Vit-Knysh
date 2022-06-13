@@ -1,1 +1,50 @@
 /* Write your CSS here! */
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    margin: 8px;
+    display: block;
+    font-size: 20px;
+    padding: auto;
+    background-color: lightgray;
+}
+header{
+    padding: auto;
+    margin: 10px;
+    font-size: 1.5em;
+}
+h1 {
+    text-align: center;
+    margin: 0;
+}
+h2 {
+    padding: 0 0 0 0;
+}
+ul, li {
+    display: block;
+    margin-right: 1em;
+    font-size: 1em;
+}
+p {
+    color: brown;
+    padding: auto;
+}
+img {
+    padding: auto;
+    margin: auto;
+    width: 600px;
+    height: 400px;
+}
+footer {
+    font-size: 14px;
+}
+#mainHeading {
+    color: red;
+}
+#testP {
+    background-color:yellow;
+}
+.funParagraph {
+    color: green;
+}
