@@ -1,4 +1,7 @@
 /* Write your CSS here! */
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 body {
     margin: 8px;
     display: block;
@@ -10,6 +13,8 @@ p {
     padding: auto;
 }
 img {
+    padding: auto;
+    margin: auto;
     width: 600px;
     height: 400px;
 }
